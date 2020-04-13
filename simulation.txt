@@ -1,0 +1,139 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Baloon#B1(1): Here is a ballon, I say FOG and frog !
+Baloon#B2(2): Here is ballon, it's white and cold here...
+Jetplane#J1(3): Gniiii Onnnnn clac clac clac. - snow
+Helicopter#H1(4): Flap, Flap, Flap... it's christmas day ?
+Helicopter#H2(5): Flap, Flap, Flap... it's christmas day ?
+Helicopter#H3(6): Flap, Flap, Flap... hum... it's pretty grey, here.
+Baloon#B3(7): Here is ballon-boy and it's sunny time !
+Jetplane#J2(8): Gniiii Pan Onnnnn. - sun
+Helicopter#H4(9): Flap, Flap, Flap... damm, it's rainning, here.
+Baloon#B1(1): Here is ballon-boy and it's sunny time !
+Baloon#B2(2): I sing under the raiiiiiin... i'm the ballon
+Jetplane#J1(3): Gniiii Onnnnn. - rain
+Helicopter#H1(4): Flap, Flap, Flap... it's christmas day ?
+Helicopter#H1(4): landing.
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Baloon#B3(7): I sing under the raiiiiiin... i'm the ballon
+Jetplane#J2(8): Gniiii Onnnnn. - rain
+Helicopter#H4(9): Flap, Flap, Flap... hum... it's pretty grey, here.
+Baloon#B1(1): I sing under the raiiiiiin... i'm the ballon
+Baloon#B2(2): Here is ballon, it's white and cold here...
+Jetplane#J1(3): Gniiii ? - fog
+Helicopter#H2(5): Flap, Flap, Flap... it's christmas day ?
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Baloon#B3(7): Here is ballon, it's white and cold here...
+Jetplane#J2(8): Gniiii ? - fog
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Baloon#B1(1): Here is ballon, it's white and cold here...
+Baloon#B2(2): I sing under the raiiiiiin... i'm the ballon
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H2(5): Flap, Flap, Flap... it's christmas day ?
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Baloon#B3(7): I sing under the raiiiiiin... i'm the ballon
+Jetplane#J2(8): Gniiii Pan Onnnnn. - sun
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Baloon#B1(1): I sing under the raiiiiiin... i'm the ballon
+Baloon#B1(1): landing.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H2(5): Flap, Flap, Flap... it's christmas day ?
+Helicopter#H2(5): landing.
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Baloon#B3(7): Here is ballon, it's white and cold here...
+Baloon#B3(7): landing.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Baloon#B2(2): Here is ballon, it's white and cold here...
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii Onnnnn. - rain
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Baloon#B2(2): I sing under the raiiiiiin... i'm the ballon
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii ? - fog
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Baloon#B2(2): Here is ballon, it's white and cold here...
+Baloon#B2(2): landing.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii Pan Onnnnn. - sun
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii Onnnnn. - rain
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii ? - fog
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii Pan Onnnnn. - sun
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii Onnnnn. - rain
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii ? - fog
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii Pan Onnnnn. - sun
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii Onnnnn. - rain
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii ? - fog
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii Pan Onnnnn. - sun
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii Onnnnn. - rain
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii ? - fog
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii Pan Onnnnn. - sun
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii Onnnnn. - rain
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii ? - fog
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii Pan Onnnnn. - sun
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii Onnnnn. - rain
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J1(3): Gniiii Pan Onnnnn. - sun
+Helicopter#H3(6): Flap, Flap, Flap... Oh, a sun !
+Jetplane#J2(8): Gniiii ? - fog
+Helicopter#H4(9): Flap, Flap, Flap... Oh, a sun !
